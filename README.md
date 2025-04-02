@@ -1,6 +1,5 @@
-# How-to-Integrate-Microsoft-Defender-for-Cloud-with-SIEM-Sentinel-
-**Step-by-step guide to integrating Microsoft Defender for Cloud with Microsoft Sentinel, including setting up a Log Analytics workspace in Azure.** 
-### **How to Integrate Microsoft Defender for Cloud with SIEM (Sentinel) – GitHub Guide**  
+# How-to-connect-Log-Analytics-workspaces
+**Step-by-step guide to setting up a Log Analytics workspace in Azure.**  
 
 #### **Step 1: Create a Log Analytics Workspace**  
 
